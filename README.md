@@ -1,4 +1,4 @@
-[![MasterHead]("https://cdn.discordapp.com/attachments/1006348768477716500/1014306201695170621/Screen_Shot_2022-08-30_at_6.50.41_PM.png")]
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1006348768477716500/1014306201695170621/Screen_Shot_2022-08-30_at_6.50.41_PM.png"> 
 <h1 align="center">Hey 👋, I'm Jamie Ryu</h1>
 <h3 align="center">A passionate and fervent frontend developer from Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"> 
