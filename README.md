@@ -1,16 +1,16 @@
-<h1 align="center">Hey 👋, I'm Jamie Ryu<img align="center" alt="Coding" width="100" src="https://cdn.discordapp.com/attachments/1006348768477716500/1014306201695170621/Screen_Shot_2022-08-30_at_6.50.41_PM.png"> </h1>
-<h3 align="center">A passionate and fervent frontend developer from Canada</h3>
+<h1 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hey 👋, I'm Jamie Ryu<img align="center" alt="Coding" width="100" src="https://cdn.discordapp.com/attachments/1006348768477716500/1014306201695170621/Screen_Shot_2022-08-30_at_6.50.41_PM.png"> </h1>
+<h3 align="center"Delivering the best user experience, one line of code at a time.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamie3128&label=Profile%20views&color=0e75b6&style=flat" alt="jamie3128" /> </p>
 
-- 🔭 I’m currently working on [TT (Team Tomorrow) Website Incubator 2022](Will Be Updated Soon)
+- 🔭 I’m currently working on : [TT (Team Tomorrow) Website Incubator 2022]
 
-- 👨‍💻 All of my projects are available at [Will be added..](Will be added..)
+- 👨‍💻 All of my projects are available at...
 
 - 💬 Ask me about **Any fundamental / detailed questions related to Front-end developement!**
 
-- 📫 How to reach me **jamiegreen3903@gmail.com**
+- 📫 How to reach me : **jamiegreen3903@gmail.com**
 
 - ⚡ Fun fact **I am a bit of a neat freak and love organizing things.**
 
