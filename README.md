@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamie3128&label=Profile%20views&color=0e75b6&style=flat" alt="jamie3128" /> </p>
 
-- 🔭 I’m currently working on : [TT (Team Tomorrow) Website Incubator 2022]
+- 🔭 I’m currently working on : [The LFTimes 2023 Newspaper Website]
 
 - 👨‍💻 All of my projects are available at...
 
