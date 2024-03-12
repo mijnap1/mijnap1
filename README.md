@@ -1,6 +1,5 @@
 <h1 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hey 👋, I'm Jamie Ryu<img align="center" alt="Coding" width="100"> </h1>
 <h3 align="center">Delivering the best user experience, one line of code at a time.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamie3128&label=Profile%20views&color=0e75b6&style=flat" alt="jamie3128" /> </p>
 
