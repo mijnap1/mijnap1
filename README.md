@@ -1,4 +1,4 @@
-<h1 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hey 👋, I'm Jamie Ryu<img align="center" alt="Coding" width="100" src="https://cdn.discordapp.com/attachments/1006348768477716500/1014306201695170621/Screen_Shot_2022-08-30_at_6.50.41_PM.png"> </h1>
+<h1 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hey 👋, I'm Jamie Ryu<img align="center" alt="Coding" width="100"> </h1>
 <h3 align="center">Delivering the best user experience, one line of code at a time.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"> 
 
