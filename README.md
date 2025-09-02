@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./readme-banner.png" alt="Jamie Ryu Banner" />
 </p>
-<h3 align="center">CS Student @ University of Toronto | Full-Stack Web Developer</h3>
+<h3 align="center"> University of Toronto | Full-Stack Web Developer</h3>
 
 ---
 <p align="center">
