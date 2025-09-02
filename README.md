@@ -1,20 +1,9 @@
 <p align="center">
   <img src="./readme-banner.png" alt="Jamie Ryu Banner" />
 </p>
-<h1 align="center">👋 Hey, I'm Jamie Ryu</h1>
 <h3 align="center">CS Student @ University of Toronto | Full-Stack Web Developer</h3>
 
 ---
-
-## 🚀 About Me  
-
-- 🔭 Currently working on: **Updating my Portfolio Website**  
-- 💬 Ask me about: **Front-end development, React, Node.js, or design workflows**  
-- 📫 Reach me at: **jamiegreen3903@gmail.com**  
-- ⚡ Fun fact: *I’m a neat freak and love organizing everything—even my codebase.*  
-
----
-
 ## 🛠️ Tech Stack  
 
 <p align="center">
