@@ -4,8 +4,6 @@
 <h3 align="center">CS Student @ University of Toronto | Full-Stack Web Developer</h3>
 
 ---
-## 🛠️ Tech Stack  
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,py,java,git,figma,photoshop,docker,vscode,vercel" />
 </p>
