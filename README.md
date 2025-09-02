@@ -17,5 +17,6 @@
 - 🎵 **[Music Visualizer](#)** → A fun project written in JavaScript using the Web Audio API that turns audio into visuals in real time, making music both something you can hear and something you can see.
 - 🤖 **[LFTimes](#)** → LFTimes is our school’s online newspaper at the Lycée Français de Toronto. It’s a space to celebrate student achievements, share articles, and keep everyone connected to what’s happening in our community.
 
+---
 
 ⭐️ From [Jamie Ryu](https://github.com/mijnap1)
