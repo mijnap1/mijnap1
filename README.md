@@ -12,37 +12,10 @@
 
 ## 🌟 Featured Projects  
 
-- 🕒 **[Notion Timer](#)** → Task-tracking app with Notion API integration, emoji tagging, and stopwatch logging.  
-- 🎨 **[Portfolio Website](https://jamieryu.com)** → Personal portfolio with custom animations (water-fill logo loading screen).  
-- 🎵 **[Music Visualizer](#)** → Real-time audio visualizer built with Web Audio API.  
-- 🤖 **[ABG Classifier](#)** → Machine learning model to classify ABG images.  
-- 📬 **[Daily Newsletter Bot](#)** → Automates delivery of curated facts and quotes twice a day.  
-- 📝 **[Genially Password Fetcher](#)** → Utility for bypassing blurred paywall-style logins.  
+- 🕒 **[Notion Timer](#)** → A task-tracking app built in JavaScript with Node.js and Vercel, designed to connect with the Notion API. It lets you tag tasks with emojis, log your progress, and keep time with a built-in stopwatch.
+- 🎨 **[Portfolio Website]((https://jamieryus.com/))** → My personal website, built with HTML, CSS, and JavaScript, where I showcase my projects, skills, and experience as a developer. It’s designed to be a central place where people can learn about me, explore my work, and connect with me.
+- 🎵 **[Music Visualizer](#)** → A fun project written in JavaScript using the Web Audio API that turns audio into visuals in real time, making music both something you can hear and something you can see.
+- 🤖 **[LFTimes](#)** → LFTimes is our school’s online newspaper at the Lycée Français de Toronto. It’s a space to celebrate student achievements, share articles, and keep everyone connected to what’s happening in our community.
 
----
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamie3128&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamie3128&layout=compact&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamie3128&theme=tokyonight" alt="streak stats" />
-</p>
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/jamie-ryu" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /></a>
-  <a href="https://kaggle.com/jamie3128" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="40" width="40" /></a>
-  <a href="https://instagram.com/jamie_ryu_yammy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" /></a>
-  <a href="https://discord.gg/Jamie3128#5489" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="40" width="40" /></a>
-</p>
-
----
-
-⭐️ From [Jamie Ryu](https://github.com/jamie3128)
+⭐️ From [Jamie Ryu](https://github.com/mijnap1)
