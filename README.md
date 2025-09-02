@@ -24,26 +24,4 @@
 
 ---
 
-## 🛠 Tech I Use
-
-**Languages**: JavaScript, TypeScript, Python, Java, C  
-**Frameworks**: React, Node.js, Express, Svelte  
-**Tools**: Git, Figma, Photoshop, Docker, Vercel  
-
----
-
-## 📊 GitHub Stats  
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jamie3128&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamie3128&theme=radical" alt="GitHub streak stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamie3128&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
----
-
 ⭐️ From [Jamie Ryu](https://github.com/jamie3128)
