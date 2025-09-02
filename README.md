@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./banner.png" alt="Jamie Ryu Banner" />
+  <img src="./jamie-banner.png" alt="Jamie Ryu Banner" />
 </p>
