@@ -10,12 +10,14 @@
 
 ---
 
-## 🌟 Featured Projects  
+## ♥️ my favorite projects! 
 
-- 🕒 **[Notion Timer](#)** → A task-tracking app built in JavaScript with Node.js and Vercel, designed to connect with the Notion API. It lets you tag tasks with emojis, log your progress, and keep time with a built-in stopwatch.
-- 🎨 **[Portfolio Website](https://jamieryus.com/)** → My personal website, built with HTML, CSS, and JavaScript, where I showcase my projects, skills, and experience as a developer. It’s designed to be a central place where people can learn about me, explore my work, and connect with me.
-- 🎵 **[Music Visualizer](#)** → A fun project written in JavaScript using the Web Audio API that turns audio into visuals in real time, making music both something you can hear and something you can see.
-- 🤖 **[LFTimes](#)** → LFTimes is our school’s online newspaper at the Lycée Français de Toronto. It’s a space to celebrate student achievements, share articles, and keep everyone connected to what’s happening in our community.
+- 🕒 **[Notion Timer](https://github.com/mijnap1/notion-timer)** — A simple timer app built with JavaScript, Node.js, and Vercel. It connects with the Notion API so you can tag your tasks with emojis, keep track of your progress, and time your work without ever leaving your workflow.  
+
+- 🎨 **[Portfolio Website](https://jamieryus.com/)** — My personal site where I share who I am and what I build. It’s made with HTML, CSS, and JavaScript, and designed to be a clean, minimal space to explore my projects, skills, and interests.  
+
+- 🎓 **[MySemester](https://github.com/mijnap1/mysemester)** — A web app for students to keep their semester organized. It lets you track grades, plan courses, and see your progress all in one place — everything you need to stay on top of university life.  
+
 
 ---
 
