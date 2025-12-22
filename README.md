@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./readme-banner.png" alt="Jamie Ryu Banner" />
+  <img src="./readme-banner (1).png" alt="Jamie Ryu Banner" />
 </p>
 <h2 align="center">Full-Stack Web Developer</h2>
 
