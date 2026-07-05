@@ -21,4 +21,4 @@
 
 ---
 
-⭐️ From [Jamie Ryu](https://github.com/mijnap1)
+⭐️ From [Jamie Ryu](https://jamieryu.com)
