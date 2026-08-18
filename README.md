@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./readme-banner2.png" alt="Jamie Ryu Banner" />
 </p>
-<h2 align="center">Full-Stack Web Developer</h2>
+<h2 align="center">Software Engineer</h2>
 
 ---
 <p align="center">
