@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Jamie Ryu LinkedIn cover banner.png" alt="Jamie Ryu Banner" />
+  <img src="./readme-banner2.png" alt="Jamie Ryu Banner" />
 </p>
 <h2 align="center">Full Stack Developer</h2>
 
